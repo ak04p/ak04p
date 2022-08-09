@@ -1,8 +1,8 @@
 <div id="header" align="center">
 <img src="https://user-images.githubusercontent.com/97516055/183681243-eb41cbe6-7cf8-4d3b-a3fb-0582425bef19.png" height="250px" width="250px"/>
-
 <img src="https://octodex.github.com/images/Fintechtocat.png" height="250px" width="250px" />
 </div>
+<br> <br>
 
 - 👋 Hi, I’m Akshita
 - 🌱 I’m currently learning Golang and data analysis using Python.
@@ -23,9 +23,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" wifth="40" height="40"/>&nbsp;
 </div>
-<br>
+<br> <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak04p&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ak04p&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ak04p/ak04p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
