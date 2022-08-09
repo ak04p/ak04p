@@ -4,7 +4,7 @@
 </div>
 <br> <br>
 
-- 👋 Hi, I’m Akshita
+### &nbsp; Hi, I’m Akshita 👋
 - 🌱 I’m currently learning Golang and data analysis using Python.
 - 🙇‍♂️ I’m looking to collaborate on Open-source Projects
 - 📫 Reach me on ak.prash@outlook.com
