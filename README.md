@@ -1,14 +1,17 @@
+<div id="header" align="center">
+<img src="https://user-images.githubusercontent.com/97516055/183681243-eb41cbe6-7cf8-4d3b-a3fb-0582425bef19.png" height="250px" width="250px"/>
+
+<img src="https://octodex.github.com/images/Fintechtocat.png" height="250px" width="250px" />
+</div>
+
 - 👋 Hi, I’m Akshita
-- 🌱 I’m currently learning about Devops
-- 💞️ I’m looking to collaborate on Open-source Projects
+- 🌱 I’m currently learning Golang and data analysis using Python.
+- 🙇‍♂️ I’m looking to collaborate on Open-source Projects
 - 📫 Reach me on ak.prash@outlook.com
 <br> <br>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-</div>
-<br> 
+ 
 :hammer_and_wrench: Languages and Tools :
-<br> <br> 
+<br> 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40"/>&nbsp;
