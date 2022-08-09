@@ -2,10 +2,13 @@
 - 🌱 I’m currently learning about Devops
 - 💞️ I’m looking to collaborate on Open-source Projects
 - 📫 Reach me on ak.prash@outlook.com
+<br> <br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
+<br> 
 :hammer_and_wrench: Languages and Tools :
+<br> <br> 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40"/>&nbsp;
